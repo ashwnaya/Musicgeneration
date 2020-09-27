@@ -1,4 +1,4 @@
-# Musicgeneration
+# Music Generation
 
 ## Model used : RNN ( Recurrent Neural Network)
 
